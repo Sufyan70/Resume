@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: black;
+}
+
+.main-div{
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+}
+.box{
+    min-height: 600px;
+    width: 400px;
+    background-color: white;
+    padding: 3px;
+}
+.header-cstm{
+   height: 16vh;
+   width: 100%;
+   background-color: rgb(52, 50, 74)
+}
+.mail-cstm{
+    font-size: xx-small;
+}
+.cstm{
+ font-size: smaller;
+}
+.p-cstm{
+    font-size: x-small;
+    border-bottom: 2px solid rgb(214, 213, 213);
+}
+.sec1-cstm-p{
+    font-size: smaller;
+}
+.sec1-cstm-p2{
+    font-size: x-small;
+    margin-top: -15px;
+}
+.h6-cstm{
+    font-size: 12px;
+}
+.line{
+    border-bottom: 2px solid rgb(214, 213, 213);
+    margin-inline-start: 40px
+}
+.sec2-p{
+    font-weight: bold;
+    margin-top: -60px;
+}
+.sec2-cstm-p{
+    font-size: x-small;
+    margin-top: -10px;
+    font-weight: bold;
+}
+.sec2-cstm-p2{
+    font-size: xx-small;
+    margin-top: -15px;
+}
+.line-2{
+    border-bottom: 2px solid rgb(214, 213, 213);
+}
+.line-3{
+    border-bottom: 2px solid rgb(214, 213, 213);
+    margin-inline-start:  15px;
+}
+.lang-cstm{
+    font-size: small;
+    margin-top: -10px;
+}
+.lang-cstm2{
+    margin-top: -20px;
+}
+.sec3-p{
+    font-weight: bold;
+    margin-top: -310px;
+}
+.sec3-cstm-p{
+    font-size: x-small;
+    margin-top: -15px;
+}
+.sec3-cstm-ul{
+    font-size: x-small;
+    margin-top: -15px;
+}
